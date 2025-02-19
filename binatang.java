@@ -1,0 +1,5 @@
+package belajar;
+
+class binatang {
+    
+}
